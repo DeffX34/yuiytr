@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color :#32CD32 ;
+}
+main h1{
+    border: 3px solid #32CD32;
+    text-align: center;
+}
+footer{
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+footer p{
+    background-color: red;
+}
+.algoritmika{
+    background-color: blue;
+}
+.klubnika{
+    background-color: aqua;
+}
+
